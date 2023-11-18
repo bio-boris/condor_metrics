@@ -1,5 +1,11 @@
 # Metrics
 
+Prometheus metrics about the state of condor queue including
+
+    Idle queue
+    Idle jobs
+
+
 # Local Install on MacOS
 * Install [Homebrew](https://brew.sh/)
 * Use the install script here [install_conda_and_htcondor.sh](scripts%2Finstall_conda_and_htcondor.sh)
